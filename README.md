@@ -1,18 +1,18 @@
 
-# Project Name
+# A DeFi Exchange made for and via LearnWeb3.io
 
-> Description the project.
+> A DeFi Exchange isomorpic in function to Uniswap V1!
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Solidity, Next.Js, JS, HTML, CSS
+- OpenZeppelin, Hardhat, Ethers
+- GIT, Vercel, VS code. 
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://de-fi-exchange-tau.vercel.app/)
 
 
 ## Getting Started
@@ -40,12 +40,6 @@ To get a local copy up and running follow these simple example steps.
 ## Authors
 
 👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
